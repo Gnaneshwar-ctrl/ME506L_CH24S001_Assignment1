@@ -15,3 +15,6 @@
 ### (a) assignment2_interpolation_a.m can be used to compute interpolation functions using (polynomial, Newton divided difference and Lagrangian) for 2- 10 intermediate points
 ### (b) assignment2_interpolation_b.m as any interpolation function will result in same function, we compared the interpolation function obtained from Newton divided difference, with exact solution.
 ### (c) assignment2_interpolation_c.m is used to compute the error for two methods i) cubic spline interpolation, ii) Newton divided difference.
+
+
+URL to access the repositry: https://github.com/Gnaneshwar-ctrl/ME506L_CH24S001_Assignment1.git
