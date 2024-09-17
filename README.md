@@ -8,3 +8,10 @@
 #### 1) With single precision we loses some accuracy due to round-off error, leading to a slightly smaller sum compared to the double precision result.
 #### 2) Both single and double precision give nearly the same sum in reverse order
 #### 3) Round-off error for single precision is lower in the reverse sequence compared to the forward sequence due to how floating-point summation works i.e., summing smaller numbers first.
+### (d) This code helps us compute the absolute and relative errors for n! using Stirling approximation
+### (e) this program helps us compute derivative using finite difference and centered difference formulation for function discussed in (a), we see that for CDF method the error decreases initially and increases laterwhere as for FDF it increases which is because of effect of round-off error.
+
+## Question 2)
+### (a) assignment2_interpolation_a.m can be used to compute interpolation functions using (polynomial, Newton divided difference and Lagrangian) for 2- 10 intermediate points
+### (b) assignment2_interpolation_b.m as any interpolation function will result in same function, we compared the interpolation function obtained from Newton divided difference, with exact solution.
+### (c) assignment2_interpolation_c.m is used to compute the error for two methods i) cubic spline interpolation, ii) Newton divided difference.
